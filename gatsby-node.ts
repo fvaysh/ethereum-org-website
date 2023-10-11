@@ -19,7 +19,6 @@ import {
   Lang,
 } from "./src/utils/languages"
 import { IS_DEV } from "./src/utils/env"
-import redirects from "./redirects.json"
 
 const exec = util.promisify(child_process.exec)
 
@@ -198,14 +197,6 @@ export const createPages: GatsbyNode<any, Context>["createPages"] = async ({
   reporter,
 }) => {
   const { createPage, createRedirect } = actions
-
-  // custom redirects defined in `redirects.json`
-  redirects.forEach((redirect) => {
-    createRedirect({
-      ...commonRedirectProps,
-      ...redirect,
-    })
-  })
 
   const { data, errors } = await graphql<Queries.AllMdxQuery>(`
     query AllMdx {
