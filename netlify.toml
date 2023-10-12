@@ -21,3 +21,585 @@
   for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "https://esp.ethereum.foundation"
+
+[[redirects]]
+force = true
+from = "/contributing/design/"
+status = 301
+to = "/en/contributing/design/"
+
+[[redirects]]
+force = true
+from = "/contributing/quizzes/"
+status = 301
+to = "/en/contributing/quizzes/"
+
+[[redirects]]
+force = true
+from = "/contributing/translation-program/"
+status = 301
+to = "/en/contributing/translation-program/"
+
+[[redirects]]
+force = true
+from = "/contributing/design-principles/"
+status = 301
+to = "/en/contributing/design-principles/"
+
+[[redirects]]
+force = true
+from = "/contributing/style-guide/"
+status = 301
+to = "/en/contributing/style-guide/"
+
+[[redirects]]
+force = true
+from = "/enterprise/private-ethereum/"
+status = 301
+to = "/en/enterprise/private-ethereum/"
+
+[[redirects]]
+force = true
+from = "/guides/how-to-id-scam-tokens/"
+status = 301
+to = "/en/guides/how-to-id-scam-tokens/"
+
+[[redirects]]
+force = true
+from = "/guides/how-to-create-an-ethereum-account/"
+status = 301
+to = "/en/guides/how-to-create-an-ethereum-account/"
+
+[[redirects]]
+force = true
+from = "/guides/how-to-revoke-token-access/"
+status = 301
+to = "/en/guides/how-to-revoke-token-access/"
+
+[[redirects]]
+force = true
+from = "/guides/how-to-swap-tokens/"
+status = 301
+to = "/en/guides/how-to-swap-tokens/"
+
+[[redirects]]
+force = true
+from = "/guides/how-to-use-a-bridge/"
+status = 301
+to = "/en/guides/how-to-use-a-bridge/"
+
+[[redirects]]
+force = true
+from = "/guides/how-to-use-a-wallet/"
+status = 301
+to = "/en/guides/how-to-use-a-wallet/"
+
+[[redirects]]
+force = true
+from = "/roadmap/account-abstraction/"
+status = 301
+to = "/en/roadmap/account-abstraction/"
+
+[[redirects]]
+force = true
+from = "/roadmap/beacon-chain/"
+status = 301
+to = "/en/roadmap/beacon-chain/"
+
+[[redirects]]
+force = true
+from = "/roadmap/danksharding/"
+status = 301
+to = "/en/roadmap/danksharding/"
+
+[[redirects]]
+force = true
+from = "/roadmap/future-proofing/"
+status = 301
+to = "/en/roadmap/future-proofing/"
+
+[[redirects]]
+force = true
+from = "/roadmap/merge/"
+status = 301
+to = "/en/roadmap/merge/"
+
+[[redirects]]
+force = true
+from = "/roadmap/pbs/"
+status = 301
+to = "/en/roadmap/pbs/"
+
+[[redirects]]
+force = true
+from = "/roadmap/scaling/"
+status = 301
+to = "/en/roadmap/scaling/"
+
+[[redirects]]
+force = true
+from = "/roadmap/secret-leader-election/"
+status = 301
+to = "/en/roadmap/secret-leader-election/"
+
+[[redirects]]
+force = true
+from = "/roadmap/security/"
+status = 301
+to = "/en/roadmap/security/"
+
+[[redirects]]
+force = true
+from = "/roadmap/statelessness/"
+status = 301
+to = "/en/roadmap/statelessness/"
+
+[[redirects]]
+force = true
+from = "/roadmap/user-experience/"
+status = 301
+to = "/en/roadmap/user-experience/"
+
+[[redirects]]
+force = true
+from = "/roadmap/single-slot-finality/"
+status = 301
+to = "/en/roadmap/single-slot-finality/"
+
+[[redirects]]
+force = true
+from = "/roadmap/verkle-trees/"
+status = 301
+to = "/en/roadmap/verkle-trees/"
+
+[[redirects]]
+force = true
+from = "/staking/dvt/"
+status = 301
+to = "/en/staking/dvt/"
+
+[[redirects]]
+force = true
+from = "/staking/pools/"
+status = 301
+to = "/en/staking/pools/"
+
+[[redirects]]
+force = true
+from = "/staking/saas/"
+status = 301
+to = "/en/staking/saas/"
+
+[[redirects]]
+force = true
+from = "/staking/withdrawals/"
+status = 301
+to = "/en/staking/withdrawals/"
+
+[[redirects]]
+force = true
+from = "/staking/solo/"
+status = 301
+to = "/en/staking/solo/"
+
+[[redirects]]
+force = true
+from = "/contributing/design/adding-design-resources/"
+status = 301
+to = "/en/contributing/design/adding-design-resources/"
+
+[[redirects]]
+force = true
+from = "/contributing/style-guide/content-standardization/"
+status = 301
+to = "/en/contributing/style-guide/content-standardization/"
+
+[[redirects]]
+force = true
+from = "/contributing/translation-program/content-buckets/"
+status = 301
+to = "/en/contributing/translation-program/content-buckets/"
+
+[[redirects]]
+force = true
+from = "/contributing/translation-program/faq/"
+status = 301
+to = "/en/contributing/translation-program/faq/"
+
+[[redirects]]
+force = true
+from = "/contributing/translation-program/how-to-translate/"
+status = 301
+to = "/en/contributing/translation-program/how-to-translate/"
+
+[[redirects]]
+force = true
+from = "/contributing/translation-program/mission-and-vision/"
+status = 301
+to = "/en/contributing/translation-program/mission-and-vision/"
+
+[[redirects]]
+force = true
+from = "/contributing/translation-program/playbook/"
+status = 301
+to = "/en/contributing/translation-program/playbook/"
+
+[[redirects]]
+force = true
+from = "/contributing/translation-program/resources/"
+status = 301
+to = "/en/contributing/translation-program/resources/"
+
+[[redirects]]
+force = true
+from = "/contributing/translation-program/translators-guide/"
+status = 301
+to = "/en/contributing/translation-program/translators-guide/"
+
+[[redirects]]
+force = true
+from = "/contributing/translation-program/translatathon/"
+status = 301
+to = "/en/contributing/translation-program/translatathon/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/a-developers-guide-to-ethereum-part-one/"
+status = 301
+to = "/en/developers/tutorials/a-developers-guide-to-ethereum-part-one/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/all-you-can-cache/"
+status = 301
+to = "/en/developers/tutorials/all-you-can-cache/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/calling-a-smart-contract-from-javascript/"
+status = 301
+to = "/en/developers/tutorials/calling-a-smart-contract-from-javascript/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/create-and-deploy-a-defi-app/"
+status = 301
+to = "/en/developers/tutorials/create-and-deploy-a-defi-app/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/deploying-your-first-smart-contract/"
+status = 301
+to = "/en/developers/tutorials/deploying-your-first-smart-contract/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/develop-and-test-dapps-with-a-multi-client-local-eth-testnet/"
+status = 301
+to = "/en/developers/tutorials/develop-and-test-dapps-with-a-multi-client-local-eth-testnet/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/downsizing-contracts-to-fight-the-contract-size-limit/"
+status = 301
+to = "/en/developers/tutorials/downsizing-contracts-to-fight-the-contract-size-limit/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/eip-1271-smart-contract-signatures/"
+status = 301
+to = "/en/developers/tutorials/eip-1271-smart-contract-signatures/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/erc-721-vyper-annotated-code/"
+status = 301
+to = "/en/developers/tutorials/erc-721-vyper-annotated-code/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/erc20-annotated-code/"
+status = 301
+to = "/en/developers/tutorials/erc20-annotated-code/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/erc20-with-safety-rails/"
+status = 301
+to = "/en/developers/tutorials/erc20-with-safety-rails/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/getting-started-with-ethereum-development-using-alchemy/"
+status = 301
+to = "/en/developers/tutorials/getting-started-with-ethereum-development-using-alchemy/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/guide-to-smart-contract-security-tools/"
+status = 301
+to = "/en/developers/tutorials/guide-to-smart-contract-security-tools/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/hello-world-smart-contract/"
+status = 301
+to = "/en/developers/tutorials/hello-world-smart-contract/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/how-to-implement-an-erc721-market/"
+status = 301
+to = "/en/developers/tutorials/how-to-implement-an-erc721-market/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/how-to-mint-an-nft/"
+status = 301
+to = "/en/developers/tutorials/how-to-mint-an-nft/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/how-to-mock-solidity-contracts-for-testing/"
+status = 301
+to = "/en/developers/tutorials/how-to-mock-solidity-contracts-for-testing/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/how-to-use-echidna-to-test-smart-contracts/"
+status = 301
+to = "/en/developers/tutorials/how-to-use-echidna-to-test-smart-contracts/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/how-to-use-manticore-to-find-smart-contract-bugs/"
+status = 301
+to = "/en/developers/tutorials/how-to-use-manticore-to-find-smart-contract-bugs/"
+
+[[redirects]]
+force = true
+from = "/developers/tutorials/how-to-use-slither-to-find-smart-contract-bugs/"
+status = 301
+to = "/en/developers/tutorials/how-to-use-slither-to-find-smart-contract-bugs/"
+
+[[redirects]]
+force = true
+from = "/about/"
+status = 301
+to = "/en/about/"
+
+[[redirects]]
+force = true
+from = "/bridges/"
+status = 301
+to = "/en/bridges/"
+
+[[redirects]]
+force = true
+from = "/contributing/"
+status = 301
+to = "/en/contributing/"
+
+[[redirects]]
+force = true
+from = "/cookie-policy/"
+status = 301
+to = "/en/cookie-policy/"
+
+[[redirects]]
+force = true
+from = "/dao/"
+status = 301
+to = "/en/dao/"
+
+[[redirects]]
+force = true
+from = "/decentralized-identity/"
+status = 301
+to = "/en/decentralized-identity/"
+
+[[redirects]]
+force = true
+from = "/defi/"
+status = 301
+to = "/en/defi/"
+
+[[redirects]]
+force = true
+from = "/deprecated-software/"
+status = 301
+to = "/en/deprecated-software/"
+
+[[redirects]]
+force = true
+from = "/desci/"
+status = 301
+to = "/en/desci/"
+
+[[redirects]]
+force = true
+from = "/eips/"
+status = 301
+to = "/en/eips/"
+
+[[redirects]]
+force = true
+from = "/energy-consumption/"
+status = 301
+to = "/en/energy-consumption/"
+
+[[redirects]]
+force = true
+from = "/enterprise/"
+status = 301
+to = "/en/enterprise/"
+
+[[redirects]]
+force = true
+from = "/foundation/"
+status = 301
+to = "/en/foundation/"
+
+[[redirects]]
+force = true
+from = "/glossary/"
+status = 301
+to = "/en/glossary/"
+
+[[redirects]]
+force = true
+from = "/guides/"
+status = 301
+to = "/en/guides/"
+
+[[redirects]]
+force = true
+from = "/governance/"
+status = 301
+to = "/en/governance/"
+
+[[redirects]]
+force = true
+from = "/history/"
+status = 301
+to = "/en/history/"
+
+[[redirects]]
+force = true
+from = "/nft/"
+status = 301
+to = "/en/nft/"
+
+[[redirects]]
+force = true
+from = "/privacy-policy/"
+status = 301
+to = "/en/privacy-policy/"
+
+[[redirects]]
+force = true
+from = "/refi/"
+status = 301
+to = "/en/refi/"
+
+[[redirects]]
+force = true
+from = "/roadmap/"
+status = 301
+to = "/en/roadmap/"
+
+[[redirects]]
+force = true
+from = "/security/"
+status = 301
+to = "/en/security/"
+
+[[redirects]]
+force = true
+from = "/smart-contracts/"
+status = 301
+to = "/en/smart-contracts/"
+
+[[redirects]]
+force = true
+from = "/social-networks/"
+status = 301
+to = "/en/social-networks/"
+
+[[redirects]]
+force = true
+from = "/terms-of-use/"
+status = 301
+to = "/en/terms-of-use/"
+
+[[redirects]]
+force = true
+from = "/web3/"
+status = 301
+to = "/en/web3/"
+
+[[redirects]]
+force = true
+from = "/zero-knowledge-proofs/"
+status = 301
+to = "/en/zero-knowledge-proofs/"
+
+[[redirects]]
+force = true
+from = "/community/code-of-conduct/"
+status = 301
+to = "/en/community/code-of-conduct/"
+
+[[redirects]]
+force = true
+from = "/community/events/"
+status = 301
+to = "/en/community/events/"
+
+[[redirects]]
+force = true
+from = "/community/get-involved/"
+status = 301
+to = "/en/community/get-involved/"
+
+[[redirects]]
+force = true
+from = "/community/grants/"
+status = 301
+to = "/en/community/grants/"
+
+[[redirects]]
+force = true
+from = "/community/language-resources/"
+status = 301
+to = "/en/community/language-resources/"
+
+[[redirects]]
+force = true
+from = "/community/online/"
+status = 301
+to = "/en/community/online/"
+
+[[redirects]]
+force = true
+from = "/community/research/"
+status = 301
+to = "/en/community/research/"
+
+[[redirects]]
+force = true
+from = "/community/support/"
+status = 301
+to = "/en/community/support/"
+
+[[redirects]]
+force = true
+from = "/contributing/adding-desci-projects/"
+status = 301
+to = "/en/contributing/adding-desci-projects/"
+
+[[redirects]]
+force = true
+from = "/contributing/adding-developer-tools/"
+status = 301
+to = "/en/contributing/adding-developer-tools/"
